@@ -1,7 +1,7 @@
 # weather-app
 `git clone https://github.com/sukhan220/weather-app`
 
-###install yarn 
+### Install yarn 
 `cd weather-app`
 `yarn install`
 
